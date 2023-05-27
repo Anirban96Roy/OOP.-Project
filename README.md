@@ -2,10 +2,6 @@
 # PROJECT NAME:
 # SYSTEM OF TRAFFIC MANAGEMENT.
 
-Description:
-The Traffic Management  System is a comprehensive application that allows users to manage the vehicles data , helpline numbers including hospitals, fire brigades and police stations . It provides the authentication process . So without password no one can get access of it. It keeps update of all vehicles with complete details .
-
-
 ## Description:
 
 The Traffic Management System is a comprehensive application that allows users to manage the vehicles data, helpline numbers including hospitals, fire brigades and police stations. It provides the authentication process. So, without password no one can get access of it. It keeps update of all vehicles with complete details.
