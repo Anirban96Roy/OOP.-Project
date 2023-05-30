@@ -34,10 +34,10 @@ There are all possible helpline numbers of Hospitals, police stations and fire b
 
 ## OOP features used for implementation:
 1.	Class
-2.	Nested function
+2.	Inheritance
 3.	Abstraction
 4.	Encapsulation
-5.	Inheritance
+5.	Nested function
 6.	File I/O operation
 7.	Constructor
 8.	Managing Console I/0 Operation
