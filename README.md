@@ -37,12 +37,10 @@ There are all possible helpline numbers of Hospitals, police stations and fire b
 2.	Inheritance
 3.	Abstraction
 4.	Encapsulation
-5.	Nested function
+5.	Managing Console I/0 Operation
 6.	File I/O operation
 7.	Constructor
-8.	Managing Console I/0 Operation
-9.	STL
-10.	Many more
+8.	Many more
 
 ##  Contact:
 Name: Anirban Roy
