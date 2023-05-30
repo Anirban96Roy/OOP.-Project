@@ -38,13 +38,11 @@ There are all possible helpline numbers of Hospitals, police stations and fire b
 3.	Abstraction
 4.	Encapsulation
 5.	Inheritance
-6.	Polymorphism
-7.	RTTI
-8.	File I/O operation
-9.	Constructor
-10.	Managing Console I/0 Operation
-11.	STL
-12.	Many more
+6.	File I/O operation
+7.	Constructor
+8.	Managing Console I/0 Operation
+9.	STL
+10.	Many more
 
 ##  Contact:
 Name: Anirban Roy
